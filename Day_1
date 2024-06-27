@@ -6,4 +6,4 @@ Chapter 1 was all about the basics of Kali Linux and commands
 Chapter 2 - Text Manipulation: commands like head, tail, cat, nl, etc
 Chapter 3 - Analyzing the Networks: All about the IP, MAC, DHCP, DNS manipulation, etc
 Chapter 4 - Adding/ Removing softwares
-Chapter5 5 - Files and directory permissions: chown, chmod, UGO, Umask, SUID, SGID, sticky bit
+Chapter 5 - Files and directory permissions: chown, chmod, UGO, Umask, SUID, SGID, sticky bit
